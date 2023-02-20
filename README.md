@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kalid nesredin
-- 👀 I’m interested in web devlopemetn
+- 👀 I’m interested in web devlopemet
 - 🌱 I’m currently learning css and javascript
 - 💞️ I’m looking to collaborate on web devlopment specifically on front-end
 - 📫 How to reach me www.knknesre@gmail.com
