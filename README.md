@@ -12,9 +12,9 @@
 </a>
 I'm a Web designer and front-end developer based in Addis Ababa, Ethiopia with determination for delivering eye-chatching websites.<br> I'm passionate about Web designing and am constantly looking to learn new things everyday.
 <br>
-working with Javascript, React, Html & Css.
+working with Javascript, Vue, Tailwind CSS.
 <br>
-I'm currently learning php.
+I'm currently digging on vue.
 <br><br>
 <h1>Languages and Tools:</h1>
 <br>
@@ -22,9 +22,8 @@ I'm currently learning php.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://react.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://react.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwind.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://react.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://figma.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
   <br>
 <h1>Find me around the web 🌎</h1>
